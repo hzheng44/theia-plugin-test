@@ -1,4 +1,4 @@
-id: che-dummy-plugin
+id: theia-plugin-test
 version: 0.0.1
 type: Che Plugin
 name: Che Samples Hello World Plugin
